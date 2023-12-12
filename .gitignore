@@ -27,4 +27,5 @@ yarn-debug.log*
 yarn-error.log*
 server/server/dbsqlite.db
 server/.dockerignore
+server/.env
 venv/
